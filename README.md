@@ -2,6 +2,9 @@
 
 Download Google Fonts font files and generate CSS file for self-hosting.
 
+> [!TIP]
+> Also see [font-fallback-gen](https://github.com/navinpeiris/font-fallback-gen) for generating font fallback rules to reduce layout shift
+
 ## Usage
 
 ```bash
