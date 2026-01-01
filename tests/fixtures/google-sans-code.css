@@ -1,0 +1,40 @@
+/* canadian-aboriginal */
+@font-face {
+  font-family: 'Google Sans Code';
+  font-style: normal;
+  font-weight: 1 1000;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/googlesanscode/v16/abc123-canadian.woff2) format('woff2');
+  unicode-range: U+1400-167F;
+}
+/* cherokee */
+@font-face {
+  font-family: 'Google Sans Code';
+  font-style: normal;
+  font-weight: 1 1000;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/googlesanscode/v16/abc123-cherokee.woff2) format('woff2');
+  unicode-range: U+13A0-13FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Google Sans Code';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/googlesanscode/v16/abc123-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF;
+}
+/* [0] */
+@font-face {
+  font-family: 'Google Sans Code';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/googlesanscode/v16/abc123-subset0.woff2) format('woff2');
+  unicode-range: U+0100-024F;
+}

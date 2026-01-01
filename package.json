@@ -1,0 +1,17 @@
+{
+  "name": "gfonts-dl",
+  "version": "1.0.0",
+  "description": "Download Google Fonts CSS and font files for self-hosting",
+  "type": "module",
+  "bin": {
+    "gfonts-dl": "./gfonts-dl"
+  },
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "test": "bun test",
+    "test:integration": "bun test --test-name-pattern integration"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
